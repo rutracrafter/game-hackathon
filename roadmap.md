@@ -1,0 +1,14 @@
+# Current work
+- [x] Create Chapter 6 winter-shopping story artwork and dialogue.
+- [x] Build the outfit-picking game with jacket, boots, and winter essentials.
+- [x] Reward a coordinated black-and-white outfit while allowing every choice.
+- [x] Preload the new chapter artwork and verify the complete flow on a phone-sized screen.
+- [x] Keep speaker names visible and dialogue lines fully wrapped without horizontal scrolling.
+- [x] Verify the Midsummer success line on a phone-sized screen.
+- [x] Ensure all Midsummer dialogue and rhythm labels remain visible on short and narrow screens.
+- [x] Preload and reduce Midsummer artwork to remove the delay when the meadow appears.
+- [x] Verify the chapter transition and dance on desktop and phone screens.
+- [x] Lower Midsummer dancers and prevent text from clipping on narrow screens.
+- [x] Flash when stepping to the rhythm.
+- [x] Reveal the full typing line on first tap throughout the game, then advance on the next tap.
+- [x] Verify the dance and shared dialog behavior on a phone-sized screen.
